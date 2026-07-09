@@ -1,0 +1,10 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+country = input("Which country are you from? ")
+
+print()
+print("===== MY PROFILE =====")
+print("Name:", name)
+print("Age:", age)
+print("Country:", country)
+print("======================")
